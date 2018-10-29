@@ -1,2 +1,6 @@
 __pycache__
 myvenv
+.dockerignore
+Dockerfile-dev
+Dockerfile-prod
+htmlcov
